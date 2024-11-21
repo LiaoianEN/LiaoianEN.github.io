@@ -7,21 +7,24 @@ featured_image = "/images/ij.jpg"
 
 專業知識與能力:
 
-C語言---------------40%
+C語言----------------40%
 
-ERP-----------------50%
+ERP------------------50%
 
-Python--------------80%
+Python---------------80%
 
-Microsoft office----80%
+Microsoft office---80%
 
-資料庫---------------70%
+資料庫----------------70%
 
-系統分析設計---------80%
+系統分析設計--------80%
 
 產品行銷-------------80%
 
 專案管理-------------80%
+
+
+![Alt text](/images/rd.png "rd")
 
 專業證照:Certiport ITS(Information Technology Specialist) Databases 資料庫管理核心能力認證
 
