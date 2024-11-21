@@ -1,3 +1,19 @@
 baseURL = 'https://liaoianen.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'EN的履歷網頁'
+theme = 'ananke'
+
+[params.ananke.social.share]
+networks = [ "facebook","instagram"]
+
+[params.ananke.social.follow]
+networks = ["facebook","instagram"]
+
+[params.ananke.social.facebook]
+username = "廖晧恩"
+profilelink = "https://www.facebook.com/profile.php?id=100008224985610"
+
+
+
+[params.ananke.social.instagram]
+username = "ian_liao0204"
