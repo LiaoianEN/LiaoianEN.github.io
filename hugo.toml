@@ -1,6 +1,6 @@
 baseURL = 'https://liaoianen.github.io/'
 languageCode = 'en-us'
-title = 'EN的履歷網頁'
+title = 'EN的個人簡歷'
 theme = 'ananke'
 
 [params.ananke.social.share]
